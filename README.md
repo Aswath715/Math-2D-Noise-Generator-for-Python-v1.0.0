@@ -1,7 +1,7 @@
 # Math-2D-Noise-Generator-for-Python-v1.0.0
 Very quick procedural 2D noise generator made only using math functions.
 
-**!!!This version (1.0.0) has problem with generating values for X and Y that are negative or extremely big!!!**
+**!!!This version (1.0.0) has problem with generating values for X and Y that are negative or extremely big!!! You can generate them but terrain can look strange!!!**
 
 ## Documentation
 ### Download and import
@@ -68,3 +68,16 @@ generator.sharpness = 1.7 #changing sharpness
 
 val2 = generator(21, 37) #generating value for same point but with different sharpness and seed
 ```
+
+## Diferences between Flow and Rice generators
+
+Here is example of heightmap generated with same seed and sharpness by Rice and Flow.
+
+**Flow:**
+
+![](example_images/Flow_example.png)
+
+
+**Rice:**
+
+![](example_images/Rice_example.png)

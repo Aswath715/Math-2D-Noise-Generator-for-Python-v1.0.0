@@ -5,7 +5,7 @@ Very quick procedural 2D noise generator made only using math functions.
 
 ## Documentation
 ### Download and import
-Simply download the file and place it in your projekt folder. In this file there are two separate generators.
+Simply download the file and place it in your projekt folder. In this file there are two separate generators witch generate different kind of terrain.
 
 ---
 

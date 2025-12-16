@@ -1,6 +1,8 @@
 # Math-2D-Noise-Generator-for-Python-v1.0.0
 Very quick procedural 2D noise generator made only using math functions.
 
+**!!!This version (1.0.0) has problem with generating values for X and Y that are negative or extremely big!!!**
+
 ## Documentation
 ### Download and import
 Simply download the file and place it in your projekt folder. In this file there are two separate generators.

